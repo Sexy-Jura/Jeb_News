@@ -3,7 +3,7 @@ test
 
 output
   Local Minecraft developer, [dev] is {so|feeling} [adjective] today after hinting that [feature] coming to minecraft next [time].
-
+  Local Minecraft developer, [dev] is {so|feeling} [adjective] today after hinting that [mashups] Mashup pack is coming to minecraft next [time].
 time
   week
   month
@@ -13,6 +13,11 @@ time
   spring
   autumn
 
+
+mashups
+ thomas the tank engine
+ spongebob
+
 features-is-are
   fingers are
   banjos are
@@ -20,11 +25,6 @@ features-is-are
   guns are
   thomas the tank engine mashup pack is
   
-mashup
- thomas the tank engine
- spongebob
- 
- 
 feature
   fingers
   banjos
