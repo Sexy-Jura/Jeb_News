@@ -2,7 +2,7 @@ title
 test
 
 output
-  Local Minecraft developer, [dev] is {so|feeling} [adjective] today after hinting that [featureis] coming to minecraft next [time].
+  Local Minecraft developer, [dev] is {so|feeling} [adjective] today after hinting that [feature] coming to minecraft next [time].
 
 time
   week
@@ -13,12 +13,24 @@ time
   spring
   autumn
 
-featureis
+features-is-are
   fingers are
   banjos are
   cars are
   guns are
   thomas the tank engine mashup pack is
+  
+mashup
+ thomas the tank engine
+ spongebob
+ 
+ 
+feature
+  fingers
+  banjos
+  cars
+  guns
+  thomas the tank engine mashup pack
 
 dev
   @jeb_
